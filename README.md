@@ -6,7 +6,7 @@
 - Select specific model attributes to render in a Rails controller
 
 ## Introduction
-
+hi
 By using `render json:` in our Rails controller, we can take entire models or
 even collections of models, have Rails convert them to JSON, and send them out
 on request. We already have the makings of a basic API. In this lesson, we're
